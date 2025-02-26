@@ -1,11 +1,11 @@
 Technical Challenge
 ===
 
-###Descripcion:
+### Descripcion:
 
 Tenemos eventos de comunicación y utilizando Apache Spark en un Docker calcularemos la facturación total de SMS, crearemos un dataset con los 100 usuarios con mayor facturación y crearemos un histograma de llamadas por hora.
 
-###Requisitos
+### Requisitos
 
 - Docker
 
@@ -15,7 +15,7 @@ Tenemos eventos de comunicación y utilizando Apache Spark en un Docker calcular
 
 - Apache Spark 2.3
 
-###Archivos
+### Archivos
 
 - Dockerfile
 - docker-compose.yml
